@@ -1,2 +1,9 @@
 # Virtual environment
 /mlopsenv/
+
+# Scala and SBT build artifacts
+target/
+project/
+
+# Compiled Scala class files
+*.class
