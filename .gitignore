@@ -7,3 +7,9 @@ project/
 
 # Compiled Scala class files
 *.class
+
+# MLflow stuff
+mlruns/
+
+# Lab3-MLflow attachments
+attachments/
