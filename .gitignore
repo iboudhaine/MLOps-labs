@@ -16,3 +16,7 @@ Lab3-MLflow/mlruns/
 Lab3-Azure-MLflow/config.json
 Lab3-Azure-MLflow/*.yaml
 Lab3-Azure-MLflow/*.csv
+
+# Lab6-ModelTesting
+Lab6-ModelTesting/**/__pycache__/
+Lab6-ModelTesting/model_testing/3. Faster_Transformer_model_serving_using_Tensorflow_Extended/tfx_model/
