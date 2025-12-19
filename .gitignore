@@ -11,3 +11,8 @@ Lab2-Scala/*.class
 # Lab3-MLflow stuff
 Lab3-MLflow/data/
 Lab3-MLflow/mlruns/
+
+# Lab3-Azure-MLflow stuff
+Lab3-Azure-MLflow/config.json
+Lab3-Azure-MLflow/*.yaml
+Lab3-Azure-MLflow/*.csv
