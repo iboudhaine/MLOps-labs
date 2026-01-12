@@ -1,16 +1,9 @@
 # Virtual environment
 /mlopsenv/
 
-# Lab2-Scala stuff
-# Scala and SBT build artifacts
-Lab2-Scala/code/OrderRevenuePrice/target/
-Lab2-Scala/code/OrderRevenuePrice/project/
-# Compiled Scala class files
-Lab2-Scala/*.class
-
-# Lab3-MLflow stuff
-Lab3-MLflow/data/
-Lab3-MLflow/mlruns/
+# Lab2-MLflow stuff
+Lab2-MLflow/data/
+Lab2-MLflow/mlruns/
 
 # Lab3-Azure-MLflow stuff
 Lab3-Azure-MLflow/config.json
